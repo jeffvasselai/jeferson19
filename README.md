@@ -1,8 +1,6 @@
 # Olá, eu sou o Jeferson! 👋
 
-Desenvolvedor Full Stack apaixonado por criar sistemas robustos e interfaces modernas. Atualmente focado em arquiteturas limpas com .NET e interfaces dinâmicas com React e Angular.
-
----
+Desenvolvedor Full Stack 
 
 ### 🚀 Minha Tech Stack
 
